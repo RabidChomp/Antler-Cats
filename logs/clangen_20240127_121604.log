@@ -1,0 +1,9 @@
+root - ERROR - main.py / load_data / 198 - File failed to load
+Traceback (most recent call last):
+  File "F:\ClanGen\Antler Cats\main.py", line 193, in load_data
+    load_cats()
+  File "F:\ClanGen\Antler Cats\scripts\game_structure\load_cat.py", line 24, in load_cats
+    json_load()
+  File "F:\ClanGen\Antler Cats\scripts\game_structure\load_cat.py", line 43, in json_load
+    cat_data = ujson.loads(read_file.read())
+ujson.JSONDecodeError: Unexpected character in found when decoding object value

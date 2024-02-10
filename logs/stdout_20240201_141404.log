@@ -1,0 +1,1103 @@
+Running on source code
+Failed to get git commit hash, using hardcoded version number instead.
+Hey testers! We recommend you use git to clone the repository, as it makes things easier for everyone.
+There are instructions at https://discord.com/channels/1003759225522110524/1054942461178421289/1078170877117616169
+Version Name:  0.9.0
+Running on commit 0.9.0
+pygame 2.3.0 (SDL 2.24.2, Python 3.10.11)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+PATROL START ---------------------------------------------------
+Patrol Leader: Lakestripe
+Random Cat: Fogsmoke
+Total Number of Possible Patrols | normal: 16, romantic: 0 
+PATROL ID: pln_bord_tunnel1 | SUCCESS: N/A (did not proceed)
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Wispstripe
+Total Number of Possible Patrols | normal: 8, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle', 'Burnetbellow', 'Squirrelspirit', 'Whimsy']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle', 'Burnetbellow', 'Squirrelspirit', 'Whimsy']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['any']
+POSSIBLE STAT CATS ['Raccoonspeckle', 'Burnetbellow', 'Squirrelspirit', 'Wispstripe', 'Greenstar', 'Whimsy']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle', 'Burnetbellow', 'Squirrelspirit', 'Whimsy']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 90
+Raccoonspeckle updated chance to 90 | Burnetbellow updated chance to 90 | Squirrelspirit updated chance to 90 | Wispstripe updated chance to 90 | Greenstar updated chance to 90 | Whimsy updated chance to 90 | 
+PATROL ID: gen_train_sunny1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Pollenmoon
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 15, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Rabbitpaw']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 90
+Pollenmoon updated chance to 90 | Rabbitpaw updated chance to 90 | Graykite updated chance to 90 | 
+PATROL ID: pln_hunt_windmill1 | SUCCESS: True
+PREY ADDED: 21.6
+Rabbitpaw ('2', 'stability', 1)
+Rabbitpaw ('2', <SkillPath.TEACHER: ('quick to help', 'good teacher', 'great teacher', 'excellent teacher')>, 3)
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 186.0. current amount (after feed, before moon gathering) 102.69999999999999
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Graykite
+Total Number of Possible Patrols | normal: 12, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite']
+Found stat cat: Graykite
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 90
+Graykite updated chance to 100 | 
+PATROL ID: pln_bord_tunnel2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Raccoonspeckle
+Random Cat: Lakestripe
+Total Number of Possible Patrols | normal: 5, romantic: 9 
+attempted romance between: Raccoonspeckle Lakestripe
+final romance chance: 28
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 90
+Raccoonspeckle updated chance to 90 | Lakestripe updated chance to 90 | 
+PATROL ID: gen_train_teamwork2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Whimsy
+Random Cat: Rabbitpaw
+Total Number of Possible Patrols | normal: 13, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Wolverinewool']
+No Stat Cat Found
+---
+starting chance: 70 | EX_updated chance: 90
+Wolverinewool updated chance to 90 | Rabbitpaw updated chance to 90 | Whimsy updated chance to 90 | 
+PATROL ID: gen_train_vision1 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Pollenmoon
+Random Cat: Burnetbellow
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 11, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Locustpaw', 'Sunpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Locustpaw', 'Sunpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Locustpaw', 'Sunpaw']
+No Stat Cat Found
+---
+starting chance: 10 | EX_updated chance: 54
+Pollenmoon updated chance to 54 | Locustpaw updated chance to 54 | Burnetbellow updated chance to 54 | Sunpaw updated chance to 54 | 
+PATROL ID: pln_hunt_gonetnr3 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Wispstripe
+Total Number of Possible Patrols | normal: 25, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Fogsmoke', 'Squirrelspirit', 'Maplepaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Fogsmoke', 'Squirrelspirit', 'Maplepaw']
+No Stat Cat Found
+---
+starting chance: 10 | EX_updated chance: 45
+Greenstar updated chance to 45 | Wispstripe updated chance to 45 | Fogsmoke updated chance to 45 | Squirrelspirit updated chance to 45 | Maplepaw updated chance to 45 | 
+PATROL ID: pln_bord_rogue1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 162.0. current amount (after feed, before moon gathering) 101.69999999999999
+PATROL START ---------------------------------------------------
+Patrol Leader: Raccoonspeckle
+Random Cat: Raccoonspeckle
+Total Number of Possible Patrols | normal: 7, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+starting chance: 70 | EX_updated chance: 90
+Raccoonspeckle updated chance to 90 | 
+PATROL ID: gen_train_vision2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Squirrelspirit
+Random Cat: Maplepaw
+Total Number of Possible Patrols | normal: 17, romantic: 1 
+not a potential mate or current mate
+starting chance: 60 | EX_updated chance: 75
+Maplepaw updated chance to 75 | Squirrelspirit updated chance to 75 | 
+PATROL ID: gen_train_confidinginwarrior1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Whimsy
+Random Cat: Sunpaw
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 14, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Rabbitpaw']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 70
+Whimsy updated chance to 70 | Sunpaw updated chance to 70 | Rabbitpaw updated chance to 70 | 
+PATROL ID: pln_hunt_windmill1 | SUCCESS: True
+PREY ADDED: 21.6
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Wolverinewool
+Total Number of Possible Patrols | normal: 14, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite', 'Locustpaw']
+Found stat cat: Graykite
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite', 'Locustpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite', 'Locustpaw']
+Found stat cat: Locustpaw
+---
+starting chance: 10 | EX_updated chance: 48
+Graykite updated chance to 58 | Wolverinewool updated chance to 58 | Locustpaw updated chance to 43 | Greenstar updated chance to 43 | 
+PATROL ID: pln_bord_tunnel1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Berryspeck
+Random Cat: Lakestripe
+Total Number of Possible Patrols | normal: 26, romantic: 1 
+attempted romance between: Berryspeck Lakestripe
+final romance chance: 4
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Oddpaw', 'Wispstripe', 'Fogsmoke']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 77
+Oddpaw updated chance to 77 | Wispstripe updated chance to 77 | Lakestripe updated chance to 77 | Fogsmoke updated chance to 77 | Berryspeck updated chance to 77 | 
+PATROL ID: pln_med_gatheringbetony_greenleaf3 | SUCCESS: True
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 168.0. current amount (after feed, before moon gathering) 118.29999999999998
+WARNING: SNAKETWO for snake bite is either None or is not in scar_to_condition dict.
+PATROL START ---------------------------------------------------
+Patrol Leader: Raccoonspeckle
+Random Cat: Raccoonspeckle
+Total Number of Possible Patrols | normal: 7, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 90
+Raccoonspeckle updated chance to 90 | 
+PATROL ID: gen_train_solonerv1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Fogsmoke
+Random Cat: Wolverinewool
+Total Number of Possible Patrols | normal: 5, romantic: 9 
+attempted romance between: Fogsmoke Wolverinewool
+final romance chance: 6
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Fogsmoke']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Fogsmoke']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Fogsmoke']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 78
+Wolverinewool updated chance to 78 | Fogsmoke updated chance to 78 | 
+PATROL ID: pln_train_sett2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Rabbitpaw
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 14, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Lakestripe']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Lakestripe']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 82
+Lakestripe updated chance to 82 | Rabbitpaw updated chance to 82 | Greenstar updated chance to 82 | 
+PATROL ID: pln_hunt_strange1 | SUCCESS: False
+Rabbitpaw ('1042', 'aggression', -2)
+Rabbitpaw ('1042', <SkillPath.TEACHER: ('quick to help', 'good teacher', 'great teacher', 'excellent teacher')>, 3)
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Oddpaw
+Total Number of Possible Patrols | normal: 17, romantic: 0 
+starting chance: 65 | EX_updated chance: 90
+Sunpaw updated chance to 90 | Oddpaw updated chance to 90 | Graykite updated chance to 90 | Squirrelspirit updated chance to 90 | 
+PATROL ID: gen_border_trainingapprentices1 | SUCCESS: True
+Sunpaw ('4', 'lawfulness', 2)
+Sunpaw ('4', <SkillPath.TEACHER: ('quick to help', 'good teacher', 'great teacher', 'excellent teacher')>, 1)
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Lionpaw
+Random Cat: Locustears
+Total Number of Possible Patrols | normal: 22, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsy', 'Wispstripe', 'Maplepaw']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 66
+Whimsy updated chance to 66 | Locustears updated chance to 66 | Wispstripe updated chance to 66 | Maplepaw updated chance to 66 | Lionpaw updated chance to 66 | 
+PATROL ID: pln_med_gatheringblackberry_greenleaf3 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Berryspeck
+Random Cat: Berryspeck
+Total Number of Possible Patrols | normal: 31, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Berryspeck']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 83
+Berryspeck updated chance to 83 | 
+PATROL ID: pln_med_gatheringcatmint_greenleaf1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 170.0. current amount (after feed, before moon gathering) 91.1
+PATROL START ---------------------------------------------------
+Patrol Leader: Fogsmoke
+Random Cat: Fogsmoke
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 12, romantic: 0 
+starting chance: 50 | EX_updated chance: 71
+Fogsmoke updated chance to 71 | 
+PATROL ID: pln_hunt_prairiedog1 | SUCCESS: True
+PREY ADDED: 7.2
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Squirrelspirit
+Random Cat: Oddpaw
+Total Number of Possible Patrols | normal: 17, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['adult']
+POSSIBLE STAT CATS ['Squirrelspirit']
+Found stat cat: Squirrelspirit
+---
+starting chance: 60 | EX_updated chance: 74
+Oddpaw updated chance to 74 | Squirrelspirit updated chance to 84 | 
+PATROL ID: pln_train_tunnels2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Maplepaw
+chosen filter prey size: small
+Total Number of Possible Patrols | normal: 5, romantic: 0 
+starting chance: 50 | EX_updated chance: 87
+Maplepaw updated chance to 87 | Locustears updated chance to 87 | Graykite updated chance to 87 | 
+PATROL ID: gen_hunt_mouse2 | SUCCESS: True
+PREY ADDED: 14
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Raccoonspeckle
+Total Number of Possible Patrols | normal: 24, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Suntuft', 'Rabbittrail']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 75
+Greenstar updated chance to 75 | Raccoonspeckle updated chance to 75 | Suntuft updated chance to 75 | Rabbittrail updated chance to 75 | 
+PATROL ID: gen_bord_lonerchase1welcome | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Wispstripe
+Random Cat: Lakestripe
+chosen filter prey size: large
+Total Number of Possible Patrols | normal: 14, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsy', 'Wolverinewool', 'Frostpatch']
+Found stat cat: Whimsy
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsy', 'Wolverinewool', 'Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsy', 'Wolverinewool', 'Frostpatch']
+No Stat Cat Found
+---
+starting chance: 10 | EX_updated chance: 64
+Whimsy updated chance to 74 | Lakestripe updated chance to 84 | Wolverinewool updated chance to 94 | Frostpatch updated chance to 94 | Wispstripe updated chance to 94 | 
+PATROL ID: pln_hunt_redfox_leaf-fallscavenge2 | SUCCESS: True
+PREY ADDED: 48.0
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Berryspeck
+Random Cat: Lionpaw
+Total Number of Possible Patrols | normal: 30, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Berryspeck']
+No Stat Cat Found
+---
+starting chance: 70 | EX_updated chance: 90
+Berryspeck updated chance to 90 | Lionpaw updated chance to 90 | 
+PATROL ID: pln_med_gatheringmullein_leaf-fall2 | SUCCESS: True
+Lionpaw ('1043', 'stability', 1)
+Lionpaw ('1043', <SkillPath.STORY: ('lover of stories', 'good storyteller', 'great storyteller', 'masterful storyteller')>, 3)
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 194.0. current amount (after feed, before moon gathering) 148.79999999999998
+PATROL START ---------------------------------------------------
+Patrol Leader: Oddpaw
+Random Cat: Oddpaw
+chosen filter prey size: large
+Total Number of Possible Patrols | normal: 6, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Oddpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Oddpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Oddpaw']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 35
+Oddpaw updated chance to 35 | 
+PATROL ID: pln_hunt_redfox_leaf-fallscavenge3 | SUCCESS: True
+PREY ADDED: 9.6
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Raccoonspeckle
+Random Cat: Wolverinewool
+Total Number of Possible Patrols | normal: 5, romantic: 9 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Raccoonspeckle']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 90
+Raccoonspeckle updated chance to 90 | Wolverinewool updated chance to 90 | 
+PATROL ID: gen_train_fightingskill2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Maplebat
+chosen filter prey size: large
+Total Number of Possible Patrols | normal: 9, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Suntuft']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Suntuft']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Suntuft']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 61
+Maplebat updated chance to 61 | Suntuft updated chance to 61 | Greenstar updated chance to 61 | 
+PATROL ID: pln_hunt_swiftfox_leaf-fallscavenge1 | SUCCESS: False
+PREY ADDED: 6.0
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Whimsy
+Total Number of Possible Patrols | normal: 15, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['adult']
+POSSIBLE STAT CATS ['Rabbittrail', 'Lakestripe']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 90
+Graykite updated chance to 90 | Rabbittrail updated chance to 90 | Lakestripe updated chance to 90 | Whimsy updated chance to 90 | 
+PATROL ID: gen_border_otherclan_badger1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Frostpatch
+Random Cat: Leapfoot
+Total Number of Possible Patrols | normal: 14, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit', 'Fogsmoke', 'Locustears']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit', 'Fogsmoke', 'Locustears']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit', 'Fogsmoke', 'Locustears']
+No Stat Cat Found
+---
+starting chance: 10 | EX_updated chance: 37
+Frostpatch updated chance to 37 | Squirrelspirit updated chance to 37 | Fogsmoke updated chance to 37 | Locustears updated chance to 37 | Leapfoot updated chance to 37 | 
+PATROL ID: plains_bord_story1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Berryspeck
+Random Cat: Lionpaw
+Total Number of Possible Patrols | normal: 30, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['adult']
+POSSIBLE STAT CATS ['Berryspeck']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['adult']
+POSSIBLE STAT CATS ['Berryspeck']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 61
+Lionpaw updated chance to 61 | Berryspeck updated chance to 61 | 
+PATROL ID: pln_med_gatheringlungwort_leaf-fall1 | SUCCESS: False
+Lionpaw ('1043', 'stability', 1)
+Lionpaw ('1043', <SkillPath.STORY: ('lover of stories', 'good storyteller', 'great storyteller', 'masterful storyteller')>, 3)
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 194.0. current amount (after feed, before moon gathering) 154.3
+PATROL START ---------------------------------------------------
+Patrol Leader: Leapfoot
+Random Cat: Leapfoot
+Total Number of Possible Patrols | normal: 17, romantic: 0 
+PATROL ID: pln_bord_trackrogue2 | SUCCESS: N/A (did not proceed)
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Maplebat
+Total Number of Possible Patrols | normal: 5, romantic: 9 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Greenstar']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 82
+Greenstar updated chance to 82 | Maplebat updated chance to 82 | 
+PATROL ID: gen_train_teamwork2 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Frostpatch
+Random Cat: Billowpaw
+chosen filter prey size: large
+Total Number of Possible Patrols | normal: 8, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Suntuft']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 56
+Suntuft updated chance to 56 | Frostpatch updated chance to 56 | Billowpaw updated chance to 56 | 
+PATROL ID: pln_hunt_burrow1 | SUCCESS: True
+PREY ADDED: 28.8
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Whimsy
+Random Cat: Locustears
+Total Number of Possible Patrols | normal: 27, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit', 'Oddpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit', 'Oddpaw']
+Found stat cat: Squirrelspirit
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit', 'Oddpaw']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 78
+Squirrelspirit updated chance to 88 | Locustears updated chance to 88 | Oddpaw updated chance to 88 | Whimsy updated chance to 88 | 
+PATROL ID: gen_bord_otherclan3 | SUCCESS: True
+PREY ADDED: 18
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Raccoonspeckle
+Random Cat: Wolverinewool
+Total Number of Possible Patrols | normal: 15, romantic: 0 
+starting chance: 30 | EX_updated chance: 70
+Beetlepaw updated chance to 70 | Rabbittrail updated chance to 70 | Wolverinewool updated chance to 70 | Lakestripe updated chance to 70 | Raccoonspeckle updated chance to 70 | 
+PATROL ID: gen_bord_abandonedkittypet1_kittypet4 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Berryspeck
+Random Cat: Fogsmoke
+Total Number of Possible Patrols | normal: 26, romantic: 1 
+attempted romance between: Berryspeck Fogsmoke
+final romance chance: 28
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite', 'Lionpaw']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 79
+Fogsmoke updated chance to 79 | Graykite updated chance to 79 | Lionpaw updated chance to 79 | Berryspeck updated chance to 79 | 
+PATROL ID: pln_med_gatheringoakleaves_leaf-fall3 | SUCCESS: False
+Lionpaw ('1043', 'stability', 2)
+Lionpaw ('1043', <SkillPath.STORY: ('lover of stories', 'good storyteller', 'great storyteller', 'masterful storyteller')>, 4)
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 206.0. current amount (after feed, before moon gathering) 192.60000000000002
+PATROL START ---------------------------------------------------
+Patrol Leader: Squirrelspirit
+Random Cat: Squirrelspirit
+chosen filter prey size: small
+Total Number of Possible Patrols | normal: 7, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit']
+Found stat cat: Squirrelspirit
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Squirrelspirit']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 66
+Squirrelspirit updated chance to 76 | 
+PATROL ID: pln_hunt_gonetwolegden1 | SUCCESS: True
+PREY ADDED: 4
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Wolverinewool
+Random Cat: Beetlepaw
+Total Number of Possible Patrols | normal: 17, romantic: 1 
+not a potential mate or current mate
+PATROL ID: pln_train_sett2 | SUCCESS: N/A (did not proceed)
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Leapfoot
+chosen filter prey size: very_small
+Total Number of Possible Patrols | normal: 3, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['any']
+POSSIBLE STAT CATS ['Maplebat', 'Leapfoot', 'Greenstar']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: ['any']
+POSSIBLE STAT CATS ['Maplebat', 'Leapfoot', 'Greenstar']
+Found stat cat: Greenstar
+---
+starting chance: 50 | EX_updated chance: 71
+Maplebat updated chance to 71 | Leapfoot updated chance to 71 | Greenstar updated chance to 56 | 
+PATROL ID: gen_hunt_mediumprey_balancing_smallwarriorhunt1 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Frostpatch
+Random Cat: Suntuft
+Total Number of Possible Patrols | normal: 26, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Lakestripe', 'Whimsy']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Lakestripe', 'Whimsy']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Lakestripe', 'Whimsy']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 90
+Frostpatch updated chance to 90 | Lakestripe updated chance to 90 | Whimsy updated chance to 90 | Suntuft updated chance to 90 | 
+PATROL ID: gen_bord_otherclan3 | SUCCESS: True
+PREY ADDED: 28.8
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Billowpaw
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 11, romantic: 1 
+attempted romance between: Billowpaw Oddpaw
+final romance chance: 26
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['any']
+POSSIBLE STAT CATS ['Billowpaw', 'Locustears', 'Graykite', 'Oddpaw', 'Raccoonspeckle']
+Found stat cat: Locustears
+---
+starting chance: 50 | EX_updated chance: 90
+Billowpaw updated chance to 90 | Locustears updated chance to 100 | Graykite updated chance to 100 | Oddpaw updated chance to 100 | Raccoonspeckle updated chance to 100 | 
+PATROL ID: gen_hunt_hugeprey_balancing_largewarriorhunt1 | SUCCESS: True
+PREY ADDED: 69
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Lionchomp
+Random Cat: Fogsmoke
+Total Number of Possible Patrols | normal: 13, romantic: 1 
+attempted romance between: Lionchomp Fogsmoke
+final romance chance: 26
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Rabbittrail', 'Berryspeck']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 62
+Rabbittrail updated chance to 62 | Fogsmoke updated chance to 62 | Lionchomp updated chance to 62 | Berryspeck updated chance to 62 | 
+PATROL ID: pln_med_horsetailhelp1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 212.0. current amount (after feed, before moon gathering) 240.20000000000002
+ -- FRESHKILL: trigger chance of 1/6
+PATROL START ---------------------------------------------------
+Patrol Leader: Beetlepaw
+Random Cat: Beetlepaw
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 13, romantic: 0 
+PATROL ID: pln_hunt_gonetwolegden2 | SUCCESS: N/A (did not proceed)
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Squirrelspirit
+Total Number of Possible Patrols | normal: 6, romantic: 9 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Graykite']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 90
+Graykite updated chance to 90 | Squirrelspirit updated chance to 90 | 
+PATROL ID: pln_train_stuck2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Whimsy
+Random Cat: Billowpaw
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 14, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 71
+Billowpaw updated chance to 71 | Frostpatch updated chance to 71 | Whimsy updated chance to 71 | 
+PATROL ID: gen_hunt_vision1 | SUCCESS: True
+PREY ADDED: 21.6
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Greenstar
+Random Cat: Lakestripe
+Total Number of Possible Patrols | normal: 24, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Leapfoot', 'Wolverinewool']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Leapfoot', 'Wolverinewool']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Leapfoot', 'Wolverinewool']
+Found stat cat: Wolverinewool
+---
+starting chance: 10 | EX_updated chance: 47
+Lakestripe updated chance to 62 | Leapfoot updated chance to 62 | Wolverinewool updated chance to 77 | Greenstar updated chance to 77 | 
+PATROL ID: pln_bord_trackrogue8 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Raccoonspeckle
+Random Cat: Fogsmoke
+Total Number of Possible Patrols | normal: 14, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Maplebat', 'Locustears', 'Suntuft']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Maplebat', 'Locustears', 'Suntuft']
+Found stat cat: Locustears
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Maplebat', 'Locustears', 'Suntuft']
+No Stat Cat Found
+---
+starting chance: 10 | EX_updated chance: 46
+Maplebat updated chance to 56 | Fogsmoke updated chance to 56 | Locustears updated chance to 66 | Suntuft updated chance to 66 | Raccoonspeckle updated chance to 76 | 
+PATROL ID: pln_bord_trackrogue7 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Lionchomp
+Random Cat: Rabbittrail
+Total Number of Possible Patrols | normal: 13, romantic: 1 
+attempted romance between: Lionchomp Rabbittrail
+final romance chance: 25
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Oddjumble']
+No Stat Cat Found
+---
+starting chance: 20 | EX_updated chance: 35
+Rabbittrail updated chance to 35 | Oddjumble updated chance to 35 | Lionchomp updated chance to 35 | 
+PATROL ID: pln_med_gatheringburdock_leaf-bare3 | SUCCESS: False
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 218.0. current amount (after feed, before moon gathering) 244.7
+ -- FRESHKILL: trigger chance of 1/6
+PATROL START ---------------------------------------------------
+Patrol Leader: Squirrelspirit
+Random Cat: Squirrelspirit
+Total Number of Possible Patrols | normal: 9, romantic: 0 
+PATROL ID: gen_bord_dog1 | SUCCESS: N/A (did not proceed)
+PATROL START ---------------------------------------------------
+Patrol Leader: Frostpatch
+Random Cat: Fogsmoke
+Total Number of Possible Patrols | normal: 5, romantic: 9 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Frostpatch']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 90
+Fogsmoke updated chance to 90 | Frostpatch updated chance to 90 | 
+PATROL ID: gen_train_teamwork2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Graykite
+Random Cat: Whimsy
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 14, romantic: 1 
+attempted romance between: Graykite Whimsy
+final romance chance: 26
+starting chance: 50 | EX_updated chance: 90
+Whimsy updated chance to 90 | Raccoonspeckle updated chance to 90 | Graykite updated chance to 90 | 
+PATROL ID: gen_hunt_squirrel1 | SUCCESS: False
+PREY ADDED: 6.0
+PATROL END -----------------------------------------------------

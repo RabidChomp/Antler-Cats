@@ -1,0 +1,436 @@
+Running on source code
+Failed to get git commit hash, using hardcoded version number instead.
+Hey testers! We recommend you use git to clone the repository, as it makes things easier for everyone.
+There are instructions at https://discord.com/channels/1003759225522110524/1054942461178421289/1078170877117616169
+Version Name:  0.9.0
+Running on commit 0.9.0
+pygame 2.3.0 (SDL 2.24.2, Python 3.10.11)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+PATROL START ---------------------------------------------------
+Patrol Leader: Hemlockstar
+Random Cat: Hootpaw
+Total Number of Possible Patrols | normal: 26, romantic: 0 
+starting chance: 60 | EX_updated chance: 90
+Piperfoot updated chance to 90 | Faithspots updated chance to 90 | Hootpaw updated chance to 90 | Frostshard updated chance to 90 | Ploverpurr updated chance to 90 | Hemlockstar updated chance to 90 | 
+PATROL ID: gen_bord_newcatthunderpath1 | SUCCESS: True
+Hootpaw ('629', 'aggression', 1)
+Hootpaw ('629', <SkillPath.CLIMBER: ('constantly climbing', 'good climber', 'great climber', 'impressive climber')>, 3)
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Shineflower
+Random Cat: Whimsymask
+Total Number of Possible Patrols | normal: 13, romantic: 1 
+attempted romance between: Shineflower Whimsymask
+final romance chance: 26
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Mantisspike']
+No Stat Cat Found
+---
+starting chance: 20 | EX_updated chance: 70
+Shineflower updated chance to 70 | Whimsymask updated chance to 70 | Mantisspike updated chance to 70 | 
+PATROL ID: pln_med_gatheringdandelion_leaf-bare3 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Whimsymask
+Random Cat: Whimsymask
+Total Number of Possible Patrols | normal: 9, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsymask']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsymask']
+No Stat Cat Found
+---
+starting chance: 20 | EX_updated chance: 52
+Whimsymask updated chance to 52 | 
+PATROL ID: gen_bord_dog1 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Shineflower
+Random Cat: Mantisspike
+Total Number of Possible Patrols | normal: 8, romantic: 1 
+not a potential mate or current mate
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Shineflower']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Shineflower']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 83
+Shineflower updated chance to 83 | Mantisspike updated chance to 83 | 
+PATROL ID: gen_med_ghost_star2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Frostshard
+Random Cat: Piperfoot
+Total Number of Possible Patrols | normal: 10, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+starting chance: 25 | EX_updated chance: 56
+Faithspots updated chance to 56 | Frostshard updated chance to 56 | Piperfoot updated chance to 56 | 
+PATROL ID: gen_train_teamwork1 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Ploverpurr
+Random Cat: Hootpaw
+Total Number of Possible Patrols | normal: 17, romantic: 1 
+not a potential mate or current mate
+starting chance: 40 | EX_updated chance: 61
+Ploverpurr updated chance to 61 | Hootpaw updated chance to 61 | 
+PATROL ID: gen_train_mosstraining1 | SUCCESS: False
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Ploverpurr
+Random Cat: Ploverpurr
+chosen filter prey size: very_small
+Total Number of Possible Patrols | normal: 2, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Ploverpurr']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Ploverpurr']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Ploverpurr']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 71
+Ploverpurr updated chance to 71 | 
+PATROL ID: pln_hunt_gonetwolegden1 | SUCCESS: True
+PREY ADDED: 4
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Shineflower
+Random Cat: Frostshard
+Total Number of Possible Patrols | normal: 8, romantic: 1 
+attempted romance between: Shineflower Frostshard
+final romance chance: 6
+PATROL ID: gen_med_medwar_natureofdeath | SUCCESS: N/A (did not proceed)
+PATROL START ---------------------------------------------------
+Patrol Leader: Mantisspike
+Random Cat: Faithspots
+Total Number of Possible Patrols | normal: 9, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Hootdrop']
+No Stat Cat Found
+---
+starting chance: 70 | EX_updated chance: 90
+Faithspots updated chance to 90 | Mantisspike updated chance to 90 | Hootdrop updated chance to 90 | 
+PATROL ID: gen_train_vision1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Mantisspike
+Random Cat: Mantisspike
+Total Number of Possible Patrols | normal: 9, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Mantisspike']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 90
+Mantisspike updated chance to 90 | 
+PATROL ID: gen_bord_smalldog1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Shineflower
+Random Cat: Ploverpurr
+Total Number of Possible Patrols | normal: 9, romantic: 1 
+attempted romance between: Shineflower Ploverpurr
+final romance chance: 24
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Shineflower']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Shineflower']
+Found stat cat: Shineflower
+---
+starting chance: 40 | EX_updated chance: 77
+Shineflower updated chance to 62 | Ploverpurr updated chance to 62 | 
+PATROL ID: gen_med_vision2 | SUCCESS: False
+Relationship block incorrectly formatted: {'cats_to': ['r_c'], 'cats_from': ['s_c'], 'mutual': True, 'values': ['jealousy'], 'amount': 15}
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Hemlockstar
+Random Cat: Hootdrop
+chosen filter prey size: medium
+Total Number of Possible Patrols | normal: 15, romantic: 0 
+starting chance: 50 | EX_updated chance: 90
+Hemlockstar updated chance to 90 | Faithspots updated chance to 90 | Hootdrop updated chance to 90 | 
+PATROL ID: pln_hunt_prairiedog1 | SUCCESS: True
+PREY ADDED: 21.6
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Frostshard
+Random Cat: Piperfoot
+Total Number of Possible Patrols | normal: 5, romantic: 9 
+attempted romance between: Frostshard Piperfoot
+final romance chance: 24
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostshard']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostshard']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostshard']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['p_l']
+POSSIBLE STAT CATS ['Frostshard']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['any']
+POSSIBLE STAT CATS ['Piperfoot', 'Frostshard']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Frostshard']
+No Stat Cat Found
+---
+starting chance: 60 | EX_updated chance: 76
+Piperfoot updated chance to 76 | Frostshard updated chance to 76 | 
+PATROL ID: gen_train_huntingskill2 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Faithspots
+Random Cat: Faithspots
+chosen filter prey size: very_small
+Total Number of Possible Patrols | normal: 2, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Faithspots']
+No Stat Cat Found
+---
+starting chance: 40 | EX_updated chance: 90
+Faithspots updated chance to 90 | 
+PATROL ID: pln_hunt_gonetwolegden1 | SUCCESS: True
+PREY ADDED: 4
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Hemlockstar
+Random Cat: Hootdrop
+Total Number of Possible Patrols | normal: 9, romantic: 0 
+starting chance: 50 | EX_updated chance: 81
+Hootdrop updated chance to 81 | Hemlockstar updated chance to 81 | 
+PATROL ID: gen_bord_otherclan5 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Mantisspike
+Random Cat: Peachpaw
+Total Number of Possible Patrols | normal: 10, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsymask']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsymask']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: ['any']
+POSSIBLE STAT CATS ['Peachpaw', 'Mantisspike', 'Whimsymask']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsymask']
+No Stat Cat Found
+---
+starting chance: 50 | EX_updated chance: 90
+Peachpaw updated chance to 90 | Mantisspike updated chance to 90 | Whimsymask updated chance to 90 | 
+PATROL ID: gen_train_sunny1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Shineflower
+Random Cat: Piperfoot
+Total Number of Possible Patrols | normal: 27, romantic: 1 
+attempted romance between: Shineflower Piperfoot
+final romance chance: 26
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Frostshard']
+No Stat Cat Found
+---
+starting chance: 30 | EX_updated chance: 58
+Piperfoot updated chance to 58 | Frostshard updated chance to 58 | Shineflower updated chance to 58 | 
+PATROL ID: pln_med_rainygathering1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+ -- FRESHKILL: trigger amount 122.0. current amount (after feed, before moon gathering) 24.1
+PATROL START ---------------------------------------------------
+Patrol Leader: Whimsymask
+Random Cat: Whimsymask
+Total Number of Possible Patrols | normal: 11, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Whimsymask']
+Found stat cat: Whimsymask
+---
+starting chance: 40 | EX_updated chance: 74
+Whimsymask updated chance to 84 | 
+PATROL ID: gen_bord_smalldog1 | SUCCESS: True
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Shineflower
+Random Cat: Hootdrop
+Total Number of Possible Patrols | normal: 9, romantic: 1 
+attempted romance between: Shineflower Hootdrop
+final romance chance: 25
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Shineflower']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Shineflower']
+Found stat cat: Shineflower
+---
+starting chance: 40 | EX_updated chance: 68
+Shineflower updated chance to 53 | Hootdrop updated chance to 53 | 
+PATROL ID: gen_med_vision2 | SUCCESS: False
+Relationship block incorrectly formatted: {'cats_to': ['r_c'], 'cats_from': ['s_c'], 'mutual': True, 'values': ['jealousy'], 'amount': 15}
+PATROL END -----------------------------------------------------
+PATROL START ---------------------------------------------------
+Patrol Leader: Mantisspike
+Random Cat: Mitaine
+Total Number of Possible Patrols | normal: 10, romantic: 0 
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Peachpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = True, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Peachpaw']
+No Stat Cat Found
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Peachpaw']
+Found stat cat: Peachpaw
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Peachpaw']
+Found stat cat: Peachpaw
+---
+---
+Finding stat cat. Outcome Type: Success = False, Antag = False
+Can Have Stat: []
+POSSIBLE STAT CATS ['Peachpaw']
+Found stat cat: Peachpaw
+---
+starting chance: 20 | EX_updated chance: 55
+Mitaine updated chance to 55 | Peachpaw updated chance to 40 | Mantisspike updated chance to 40 | 
+PATROL ID: pln_train_stuck1 | SUCCESS: False
+PATROL END -----------------------------------------------------

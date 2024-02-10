@@ -1,0 +1,2 @@
+C:\Users\Jaimey Parry\AppData\Roaming\Python\Python310\site-packages\pygame_gui\core\ui_font_dictionary.py:293: UserWarning: Trying to pre-load font id: notosans_bold_30 that is already loaded
+  warnings.warn('Trying to pre-load font id: ' +
